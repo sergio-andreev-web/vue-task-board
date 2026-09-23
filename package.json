@@ -1,1 +1,18 @@
-{"name":"vue-task-board","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite","build":"vite build"},"dependencies":{"vue":"^3.5.43"},"devDependencies":{"vite":"^8.3.0","@vitejs/plugin-vue":"^6.0.9"}}
+{
+  "name": "vue-task-board",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "node --test src/*.test.js"
+  },
+  "dependencies": {
+    "vue": "^3.5.43"
+  },
+  "devDependencies": {
+    "vite": "^8.3.0",
+    "@vitejs/plugin-vue": "^6.0.9"
+  }
+}

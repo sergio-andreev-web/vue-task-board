@@ -1,5 +1,3 @@
 # Vue Task Board
 
-Small task list with browser local storage. Run `npm install && npm run dev`.
-
-Backdated sample commits in this repository are synthetic.
+Vue 3 task board with local storage, filters, priorities, and JSON import/export. Run `npm install && npm run dev`.
